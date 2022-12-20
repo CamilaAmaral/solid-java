@@ -1,4 +1,4 @@
 # solid-java
 
-- Single Responsibility Principle (SRP);
-- Open Closed: princípio do aberto fechado;
+- Single Responsibility Principle (SRP): Princípio de Responsabilidade Única;
+- Open Closed: Princípio do aberto fechado;
